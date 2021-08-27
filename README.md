@@ -1,5 +1,4 @@
 # About-Me
-Brief About Me
 
 I'm currently adding my software projects & assignments to GitHub in an organized fashion...
 
